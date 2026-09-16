@@ -22,3 +22,6 @@ Spring Boot bilan yozilgan autentifikatsiya va foydalanuvchi boshqaruvi API.
 2. `application.properties.example` dan `application.properties` yarating
 3. `./gradlew bootRun`
 4. Swagger: http://localhost:8080/swagger-ui.html
+
+## Muallif
+Elchin — Backend Developer (Java, Spring Boot)
