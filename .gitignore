@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maxfiy sozlamalar — GitHub'ga CHIQMASIN!
+src/main/resources/application.properties
+
+# Mac
+.DS_Store
+
+# Log
+*.log
